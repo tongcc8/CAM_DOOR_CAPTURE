@@ -7,3 +7,6 @@ Idea by: Chentou TONG
 Write by: Chentou TONG, Man-chung Wong
 Hardware: Raspberry
 
+Edited on emacs
+
+
